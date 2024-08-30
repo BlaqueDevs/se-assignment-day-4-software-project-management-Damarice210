@@ -34,21 +34,21 @@
 
 ##  What are the main advantages and disadvantages of each?
    1. Agile Methodology
-      Advantages:
+      ## Advantages 
           - Flexibility: Agile allows for changes and iterations throughout the project, accommodating evolving requirements.
           - Customer Involvement: Continuous feedback from stakeholders ensures the product meets their needs.
           - Faster Delivery: Regular releases and iterations mean parts of the project can be delivered and used sooner.
           - Improved Quality: Frequent testing and reviews help catch and fix issues early.
-      Disadvantages:
+      ## Disadvantages:
           - Scope Creep: Flexibility can sometimes lead to uncontrolled changes and scope creep.
           - Resource Intensive: Requires constant involvement from the team and stakeholders, which can be demanding.
           - Less Predictability: The iterative nature can make it hard to predict timelines and costs accurately.
-  2. Waterfall Methodology
-     Advantages:
+  3. Waterfall Methodology
+     ## Advantages:
           - Structured Approach: Clear, linear stages make planning and execution straightforward.
           - Predictability: Defined stages and timelines provide a clear roadmap and budget.
           - Documentation: Extensive documentation ensures clarity and traceability of requirements and progress.
-    Disadvantages:
+   ## Disadvantages:
           - Inflexibility: Changes are difficult to implement once a stage is completed, making it less adaptable to new requirements.
           - Delayed Testing: Testing occurs late in the process, which can lead to discovering issues at a stage where they are costly to fix.
           - Customer Feedback: Limited opportunities for customer feedback until the project is near completion.
