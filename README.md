@@ -58,7 +58,7 @@
           - Software Development: Projects where requirements are likely to change or evolve, such as developing a new app or software platform.
           - Startups: Environments where rapid iteration and feedback are crucial to refine the product based on user feedback.
           - Marketing Campaigns: Projects that require frequent adjustments based on market trends and customer responses.
-   ## Examples:
+       - Examples:
           - Developing a Mobile App: Agile allows for iterative development, frequent releases, and continuous user feedback.
           - E-commerce Website: Regular updates and feature additions based on user behavior and feedback.
           - Digital Marketing Campaign: Adjusting strategies and content based on real-time analytics and customer engagement.
@@ -66,7 +66,7 @@
           - Construction Projects: Projects with well-defined stages and requirements that are unlikely to change.
           - Manufacturing: Processes that follow a strict sequence and require detailed documentation and planning.
           - Government Projects: Projects that require extensive documentation, regulatory compliance, and fixed requirements.
- ##  Examples:
+        -  Examples:
           - Building a Bridge: Clear stages from design to construction, with minimal changes expected once the project starts.
           - Developing a Medical Device: Requires thorough documentation, testing, and regulatory approval, making a structured approach essential.
           - Implementing a New ERP System: Detailed planning and fixed requirements are crucial for successful deployment.
